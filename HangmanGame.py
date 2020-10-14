@@ -1,5 +1,3 @@
-# Assignment no. : 2 
-# Rohit Anil Kapare (305A035)
 # Title : Hangman Game
 # Word file url : https://github.com/RohitKapare/Hangmn-Game/blob/main/words.txt
 import random
